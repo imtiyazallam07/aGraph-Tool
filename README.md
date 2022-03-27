@@ -1,4 +1,4 @@
-# Asteroid Translator
+# Asteroid aGraph Tool
 
 A command-line graphing tool program.
 
