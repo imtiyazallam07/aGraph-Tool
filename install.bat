@@ -1,0 +1,1 @@
+python -V && python -m pip install colorama && python -m pip install matplotlib 
